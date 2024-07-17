@@ -1,0 +1,30 @@
+.wrapper {
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+    border-color: black;
+    background-color:rgb(228, 207, 207);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#button-start {
+    background-color: rgb(113, 113, 151);
+}
+
+#button-stop {
+    background-color:rgb(113, 113, 151);
+}
+
+#button-reset {
+    background-color: rgb(113, 113, 151);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
